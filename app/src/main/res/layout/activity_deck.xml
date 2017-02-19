@@ -11,7 +11,15 @@
     tools:context="com.android.ejemplos.randomcards.DeckActivity">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:id="@+id/activity_card___number_cards_textview"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="@string/activity_card___number_of_cards_text"
+        android:background="#99EEEEEE"/>
+
+    <ImageView
+        android:id="@+id/activity_card___card_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 </RelativeLayout>

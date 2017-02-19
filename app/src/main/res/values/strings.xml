@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">RandomCards</string>
+    <string name="app_name">Random Cards</string>
+    <string name="activity_card___number_of_cards_text">Remaining: </string>
+
 </resources>
