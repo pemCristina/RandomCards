@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Random Cards</string>
-    <string name="activity_card___number_of_cards_text">Remaining: </string>
+    <string name="activity_card___initial_remaining_text">Remaining: 52</string>
+    <string name="activity_card___remaining_text">Remaining: </string>
 
 </resources>
